@@ -1,0 +1,5 @@
+variable "elb" {
+}
+
+variable "instance" {
+}
